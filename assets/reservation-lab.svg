@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" role="img" aria-label="Reservation Engine: one seat, many attempts, one valid reservation.">
+<defs><linearGradient id="g" x2="1" y2="1"><stop offset="0%" stop-color="#0b1427"/><stop offset="100%" stop-color="#17364a"/></linearGradient></defs>
+<rect width="1200" height="350" rx="28" fill="url(#g)"/>
+<text x="47" y="64" fill="#93c5fd" font-size="23" letter-spacing="3" font-weight="bold" font-family="DejaVu Sans,Arial,sans-serif">THE ENGINEERING DOJO · LAB 01</text>
+<text x="46" y="125" fill="#ffffff" font-size="49" font-weight="bold" font-family="DejaVu Sans,Arial,sans-serif">Reservation Engine</text>
+<text x="48" y="174" fill="#cbd5e1" font-size="22" font-family="DejaVu Sans,Arial,sans-serif">One seat. One hundred attempts. Can we prove correctness?</text>
+<rect x="46" y="215" width="225" height="62" rx="15" fill="#25476a"/>
+<text x="158" y="252" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="bold" fill="#dbeafe">100 requests</text>
+<path d="M290 246h48m-13 -11 13 11 -13 11" stroke="#60a5fa" stroke-width="5" fill="none"/>
+<rect x="355" y="215" width="245" height="62" rx="15" fill="#25476a"/>
+<text x="478" y="252" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="bold" fill="#dbeafe">Consistency rules</text>
+<path d="M616 246h48m-13 -11 13 11 -13 11" stroke="#60a5fa" stroke-width="5" fill="none"/>
+<rect x="683" y="215" width="260" height="62" rx="15" fill="#1e4d46"/>
+<text x="813" y="252" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" font-weight="bold" fill="#a7f3d0">At most 1 winner</text>
+<g transform="translate(1028 101)">
+<rect x="0" y="0" width="112" height="119" rx="15" fill="#f8fafc"/>
+<rect x="17" y="17" width="77" height="26" rx="8" fill="#60a5fa"/>
+<rect x="20" y="53" width="23" height="46" rx="6" fill="#0f2543"/>
+<rect x="69" y="53" width="23" height="46" rx="6" fill="#0f2543"/>
+<rect x="20" y="99" width="72" height="9" rx="4" fill="#0f2543"/>
+</g>
+</svg>
